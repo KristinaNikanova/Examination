@@ -1,0 +1,15 @@
+d:\GeekBrains\Examination\bin\Debug\net6.0\Examination.exe
+d:\GeekBrains\Examination\bin\Debug\net6.0\Examination.deps.json
+d:\GeekBrains\Examination\bin\Debug\net6.0\Examination.runtimeconfig.json
+d:\GeekBrains\Examination\bin\Debug\net6.0\Examination.dll
+d:\GeekBrains\Examination\bin\Debug\net6.0\Examination.pdb
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.csproj.AssemblyReference.cache
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.GeneratedMSBuildEditorConfig.editorconfig
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.AssemblyInfoInputs.cache
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.AssemblyInfo.cs
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.csproj.CoreCompileInputs.cache
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.dll
+d:\GeekBrains\Examination\obj\Debug\net6.0\refint\Examination.dll
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.pdb
+d:\GeekBrains\Examination\obj\Debug\net6.0\Examination.genruntimeconfig.cache
+d:\GeekBrains\Examination\obj\Debug\net6.0\ref\Examination.dll
